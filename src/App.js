@@ -5,7 +5,7 @@ import VideoList from './components/movie_list';
 import NavBar from './components/navbar'
 
 const APIKEY = 'c9a65860';
-const APIURL = 'http://www.omdbapi.com';
+const APIURL = 'www.omdbapi.com';
 
 function fetchMovies(search = '') {
 
